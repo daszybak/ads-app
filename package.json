@@ -4,8 +4,6 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		"postinstall": "npm link ../af-shared",
-		"postupdate": "npm link ../af-shared"
 	},
 	"dependencies": {
 		"@dnd-kit/core": "^6.0.5",
